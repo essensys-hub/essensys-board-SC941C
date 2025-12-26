@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\__Project\Altium\____Valentinea\SC941\04Nov16\SI941C.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=si941c-roundholes-plated.txt|DrillLayers=gtl,g2,g3,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=si941c-roundholes-nonplated.txt|DrillLayers=gtl,g2,g3,gbl
+LayersSetName=Top_Bot_NonPlated_Slot_Holes|DrillFile=si941c-slotholes-nonplated.txt|DrillLayers=gtl,g2,g3,gbl
