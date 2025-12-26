@@ -9,7 +9,7 @@ Voici quelques extraits du schéma électronique (MCU et Connecteurs). Pour le s
 ![Schéma MCU](assets/images/schematic_p2.png)
 *Page 2 : MCU*
 
-![Schéma Connecteurs](assets/images/schematic_p8.png)
+![Schéma Connecteurs](assets/images/schematic_page-9.png)
 *Page 8 : Connecteurs*
 
 ## Sections
