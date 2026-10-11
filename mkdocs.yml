@@ -23,6 +23,7 @@ nav:
   - 🔌 Hardware: 
     - Spécifications: hardware.md
     - Schémas: schematics.md
+    - Retouche foudre: retouche-foudre.md
   - 💻 Firmware: firmware.md
   - 💾 Téléchargements: downloads.md
 
